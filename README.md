@@ -1,18 +1,18 @@
-<h1 align="center">Hi Guys 👋, I'm Aditya Dharmawan Saputra</h1>
+<h1 align="center">Hi Guys 👋, I'm Riki Mardiyanto</h1>
 <h3 align="center">
-	A passionate fullstack developer from Indonesia<br>
+	A passionate about Human Computer Interaction<br>
 	Someone who adheres to idealism. It can be anything as long as you put in the hard work. Sarcasm is something you come up with a lot when you talk. I am fun to work with. I don't like doing the same job over and over again. i always like to learn new things from other people like helping others solve their problems.
 </h3>
 
 <h3> 👨 &nbsp;About Me </h3>
 
 - 🔭 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Information System at [Sriwijaya University](https://unsri.ac.id).
-- 💼 &nbsp; Working as a Fullstack Developer at [SCAFOL](https://scafol.com/) and [SRITECH](https://github.com/Sriwijaya-Techno)
+- 🎓 &nbsp; Studying Information System at [Islamic State Raden Fatah Palembang](https://radenfatah.ac.id).
+- 💼 &nbsp; Working as a Fullstack Developer at [SCAFOL](https://scafol.com/) and 
 - 🌱 &nbsp; Learning more about Systems Design.
 - ✍️ &nbsp; Music is my hobby.
-- 💬 Ask me about **PHP, VUE**
-- 📫 How to reach me **adityadees@sriwijaya.tech** | **adityadees@gmail.com**
+- 💬 Ask me about **User Experience Design**
+- 📫 How to reach me **rikimard@gmail.com** 
 
 <br/>
 <br/>
