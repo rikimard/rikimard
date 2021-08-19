@@ -1,6 +1,6 @@
 <h1 align="center">Hi Guys 👋, I'm Riki Mardiyanto</h1>
 <h3 align="center">
-	A passionate about. UX and Human Computer Interaction<br>
+	I am passionate about How human interaction with technology <br>
 	
 </h3>
 
