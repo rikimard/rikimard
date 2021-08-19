@@ -6,11 +6,11 @@
 
 <h3> 👨 &nbsp;About Me </h3>
 
-- 🔭 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🔭 &nbsp; Solving Problem Through Design and Technology.
 - 🎓 &nbsp; Studying Information System at [Islamic State Raden Fatah Palembang](https://radenfatah.ac.id).
 - 💼 &nbsp; Working as a UI/UX designer at [SCAFOL](https://scafol.com/) and 
-- 🌱 &nbsp; Learning more about Systems Design.
-- ✍️ &nbsp; Music is my hobby.
+- 🌱 &nbsp; Learning more about Systems Design, Data Driven and Human Centered Design.
+- ✍️ &nbsp; Reading Books, Football and Netflix .
 - 💬 Ask me about **User Experience Design**
 - 📫 How to reach me **rikimard@gmail.com** 
 
