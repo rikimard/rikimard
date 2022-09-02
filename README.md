@@ -8,7 +8,7 @@
 
 - 🔭 &nbsp; Solving Problem Through Design and Technology.
 - 🎓 &nbsp; Studying Information System at [Islamic State Raden Fatah Palembang](https://radenfatah.ac.id).
-- 💼 &nbsp; Working as a UI/UX designer at [SCAFOL](https://scafol.com/) and 
+- 💼 &nbsp; Working as a UI/UX designer at Alterra Academy and 
 - 🌱 &nbsp; Learning more about Systems Design, Data Driven and Human Centered Design.
 - ✍️ &nbsp; Reading Books, Football and Netflix .
 - 💬 Ask me about **User Experience Design**
